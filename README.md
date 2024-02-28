@@ -1,5 +1,34 @@
 # Routeify Cab Service Application
 
+## Directory Structure
+
+```
+      routeify-backend/
+      ├── controllers/
+      │   ├── admin_controller.go
+      │   ├── driver_controller.go
+      │   └── user_controller.go
+      ├── middleware/
+      │   ├── auth.go
+      │   ├── authorization.go
+      │   └── error_handling.go
+      ├── models/
+      │   ├── booking.go
+      │   ├── brand.go
+      │   ├── cab.go
+      │   ├── driver.go
+      │   ├── location.go
+      │   ├── payment.go
+      │   ├── review.go
+      │   ├── user.go
+      │   └── vehicle.go
+      ├── repository/
+      │   └── repository.go
+      ├── utils/
+      │   └── token.go
+      └── main.go
+```
+
 ## Description
 Routeify is a cab service application that allows users to book rides, track their cab in real-time, and make payments seamlessly. This application aims to provide a convenient and reliable transportation solution for users.
 
