@@ -4,7 +4,7 @@ import (
 	"context"
 	"log"
 
-	"github.com/samriddha-basu-cloud/Routeify/models"
+	"github.com/samriddha-basu-cloud/Routeify/routeify-backendy/models"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
