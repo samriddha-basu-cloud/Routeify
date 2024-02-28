@@ -4,8 +4,8 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"github.com/samriddha-basu-cloud/Routeify/models"
 	"github.com/samriddha-basu-cloud/Routeify/repository"
+	"github.com/samriddha-basu-cloud/Routeify/routeify-backend/models"
 )
 
 func RegisterUser(c *gin.Context) {
