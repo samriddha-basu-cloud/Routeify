@@ -48,13 +48,7 @@ Routeify is a cab service application that allows users to book rides, track the
 - Mapping and Location Services: Google Maps API
 - Payment Gateway: Stripe
 
-## Installation
-1. Clone the repository: `git clone https://github.com/your-username/routeify.git`
-2. Install the dependencies: `npm install`
-3. Set up the environment variables:
-   - Create a `.env` file in the root directory.
-   - Add the necessary environment variables (e.g., database connection string, API keys).
-4. Start the application: `npm start`
+
 
 ## Usage
 1. Register a new user account or login with existing credentials.
