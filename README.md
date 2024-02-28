@@ -43,10 +43,10 @@ Routeify is a cab service application that allows users to book rides, track the
 
 ## Technologies Used
 - Frontend: HTML, CSS, JavaScript, React
-- Backend: Node.js, Express.js
+- Backend: Go Lang
 - Database: MongoDB
 - Mapping and Location Services: Google Maps API
-- Payment Gateway: Stripe
+- Payment Gateway: PhonePe
 
 
 
