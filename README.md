@@ -60,8 +60,7 @@ Routeify is a cab service application that allows users to book rides, track the
 ## Contributing
 Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+
 
 ## Contact
 For any inquiries or support, please contact us at support@routeify.com.
